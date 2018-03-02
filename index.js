@@ -1,4 +1,4 @@
-var num = 10;
+var num = 7;
 
 
 function iLoveTheBeatles(int) {
