@@ -40,11 +40,11 @@ var num2 = 7;
 function iLoveTheBeatles(int) {
   var array = [];
   var string = "I love the Beatles!";
-  var string2 = "";
+  
   do  {
-    string2 += string;
     
-    array.push(string2);
+    
+    array.;
     num++;
   } while(num < 15)
   return array;
