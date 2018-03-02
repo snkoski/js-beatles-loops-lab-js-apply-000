@@ -44,10 +44,11 @@ function iLoveTheBeatles(int) {
   do  {
     
     
-    array.;
-    num++;
-  } while(num < 15)
-  return array;
+    array.push(string);
+    int++;
+  } while(int < 15)
+    
+  console.log(array);
 }
 
 iLoveTheBeatles(num);
