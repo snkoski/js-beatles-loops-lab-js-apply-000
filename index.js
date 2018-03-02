@@ -35,6 +35,7 @@ function johnLennonFacts(facts) {
 johnLennonFacts(facts);
 
 var num = 17;
+var num2 = 7;
 
 function iLoveTheBeatles(int) {
   var array = [];
@@ -46,3 +47,4 @@ function iLoveTheBeatles(int) {
 }
 
 iLoveTheBeatles(num);
+iLoveTheBeatles(num2);
