@@ -1,10 +1,10 @@
 var num = 10;
-var array = [];
-var string = "I love the Beatles!";
+
 
 function iLoveTheBeatles(int) {
+  var array = [];
   while(num < 15) {
-    array.push(string);
+    array.push("I love the Beatles!");
     num++;
   }
   console.log(array);
