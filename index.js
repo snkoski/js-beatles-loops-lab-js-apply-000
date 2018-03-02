@@ -48,7 +48,7 @@ function iLoveTheBeatles(int) {
     int++;
   } while(int < 15)
     
-  console.log(array);
+  return array;
 }
 
 iLoveTheBeatles(num);
