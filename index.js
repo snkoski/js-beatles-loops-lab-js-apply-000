@@ -1,14 +1,13 @@
+var num = 10;
+var array = [];
+var string = "I love the Beatles!";
 
-function iLoveTheBeatles(num) {
-  
-  var array = [];
-  var string = "I love the Beatles!";
-  
-  while (num < 15) {
+function iLoveTheBeatles(int) {
+  while(num < 15) {
     array.push(string);
     num++;
   }
-  return array;
+  console.log(array);
 }
 
-iLoveTheBeatles(5);
+iLoveTheBeatles(num);
