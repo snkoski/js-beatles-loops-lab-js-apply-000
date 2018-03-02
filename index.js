@@ -7,7 +7,7 @@ function iLoveTheBeatles(int) {
     array.push("I love the Beatles!");
     num++;
   }
-  console.log(array);
+  return array;
 }
 
 iLoveTheBeatles(num);
