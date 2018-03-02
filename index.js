@@ -10,7 +10,7 @@ function theBeatlesPlay(array1, array2) {
   for(var i = 0; i < array1.length; i++) {
     theBand.push(array1[i] + string1 + array2[i]);
   }
-  console.log(theBand)
+  return theBand;
   
 }
 
