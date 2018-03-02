@@ -39,8 +39,9 @@ var num2 = 7;
 
 function iLoveTheBeatles(int) {
   var array = [];
+  var string = 'I love the Beatles!';
   do  {
-    array.push('I love the Beatles!');
+    array.push(string);
     num++;
   } while(num < 15)
   return array;
