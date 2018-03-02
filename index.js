@@ -3,7 +3,7 @@ var num = 10;
 
 function iLoveTheBeatles(int) {
   var array = [];
-  while(num < 15) {
+  do  {
     array.push("I love the Beatles!");
     num++;
   }
